@@ -59,6 +59,7 @@ Implemented our own application program in which processes communicate using soc
 The Arizona Medical Online Portal is an innovative solution designed to simplify and enhance the interactions between healthcare providers and patients. This comprehensive digital platform allows for seamless access to medical services and information, significantly improving the efficiency of healthcare operations and enhancing patient satisfaction. Our team has developed a user-centric portal that includes several key functionalities aimed at improving the overall healthcare experience.
 
 ### Microprocessor Development  | Aug 2023 – Dec 2023
+Designed a scalable digital microprocessor prototype with a detailed hardware blueprint suitable for real-world implementation. Applied expertise in microprocessor architecture, digital circuit design, and system integration to create a foundational model for hardware manufacturing. Utilized Verilog and industry-standard engineering tools to ensure scalability, efficiency, and compliance with modern technology standards.
 
 ### Synchronous Sequential Machine  | Aug 2023 – Dec 2023
 
