@@ -62,6 +62,7 @@ The Arizona Medical Online Portal is an innovative solution designed to simplify
 Designed a scalable digital microprocessor prototype with a detailed hardware blueprint suitable for real-world implementation. Applied expertise in microprocessor architecture, digital circuit design, and system integration to create a foundational model for hardware manufacturing. Utilized Verilog and industry-standard engineering tools to ensure scalability, efficiency, and compliance with modern technology standards.
 
 ### Synchronous Sequential Machine  | Aug 2023 – Dec 2023
+Created Using the Program Digital at Arizona State University in CSE 120 Digital Design Fundamentals
 
 ---
 ### Skills
