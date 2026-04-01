@@ -69,6 +69,24 @@ Created Using the Program Digital at Arizona State University in CSE 120 Digital
 Windows Server, Active Directory, Active Directory Security Groups, Networking, Security Technologies (firewalls, IDS/IPS, encryption), Virtualization (VMware), Cybersecurity, Ethical Hacking, Incident Response, Vulnerability Assessment, Network Security, VPN Administration, TCP/IP, DNS/DHCP, Linux System Administration, C (Programming Language), C++, Java, Packet Tracer, Verilog, Operating Systems, Patch Management, IT Risk Management, Risk Assessment, FPGA’s, AMD Vivado, Visual Studio, Eclipse IDE’s, Data Structures and Algorithms, Object Orientated programming, Design and Synthesis of Digital Hardware, Computer and Network Forensics
 
 ---
+### Clubs
+- Sun Devil® Run Club President<br>
+  An ASU-run club thats focused on motivating people to move and prepare for 10k, Half, and Marathons.<br>
+  Jan 2025 – May 2026
+
+- DevilSec Member
+DevilSec is a cyber security club based at Arizona State University (ASU) which has a sole purpose of better equipping students for their future careers into the many professions of cyber security. We provide hands on education and training for ethical hacking, network security, penetration testing, network administration, and systems security.<br>
+Jan 2023 – May 2026
+
+- Sun Devil Stock Exchange Member<br>
+Learning and exploring the many areas of financial markets, including the stock market, cryptocurrency, bonds, and more<br>
+Jan 2023 – May 2026
+
+
+
+
+
+---
 
 ## Technical Stack
 
