@@ -21,7 +21,7 @@
 
 ## About Me
 
-\- Currently obtaining my Degree at Ira A. Fulton Schools of Engineering for Computer Science (CyberSecurity). While working at a small Building management company as a IT Systems Engineer. Responsible for information technology initiatives, strategy, operations and maintenance. Oversaw the IT systems required to support the organization's unique objectives and goals. Implemented security protocols and procedures as well as preventative maintenance on machines in multiple company buildings. 
+\- Currently obtaining my Degree at Ira A. Fulton Schools of Engineering for Computer Science (CyberSecurity). Incoming Network Operations Intern at General Dynamics Mission Systems. While at Arizona state working at a small Building management company as a IT Systems Engineer. Responsible for information technology initiatives, strategy, operations and maintenance. Oversaw the IT systems required to support the organization's unique objectives and goals. Implemented security protocols and procedures as well as preventative maintenance on machines in multiple company buildings.
 
 \- Started a clothing brand in 2018 called [Goose Customs](https://www.goosecustoms.net/), which has grown over the years and taught me how to create and manage an eCommerce business.
 
