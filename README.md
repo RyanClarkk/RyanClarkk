@@ -30,19 +30,67 @@ Relationship with Drink LMNT
 
 ---
 
-## Certifications
 
-- CCNA: ENTERPRISE NETWORKING, SECURITY, AND AUTOMATION
-- CCNA: SWITCHING, ROUTING, AND WIRELESS ESSENTIALS
-- TESTOUT CERTIFIED SECURITY PRO
-- TESTOUT CERTIFIED CLIENT PRO
-- TESTOUT CERTIFIED OFFICE PRO
-- SNAP-ON METER CERTIFICATION
-- OSHA 10-HOUR GENERAL INDUSTRY, Occupational Safety and Health Administration
+<h2>🏆 Certifications</h2>
 
+<table border="0" cellspacing="20" cellpadding="15" align="center">
+<tr>
+
+<td align="center" width="25%">
+
+<img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="75"><br><br>
+
+<b>Cisco</b><br><br>
+
+CCNA Enterprise Networking,<br>
+Security & Automation<br><br>
+
+CCNA Switching, Routing &<br>
+Wireless Essentials
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="assets/testout.png" height="65"><br><br>
+
+<b>TestOut</b><br><br>
+
+Security Pro<br><br>
+
+Client Pro<br><br>
+
+Office Pro
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="assets/osha.png" height="55"><br><br>
+
+<b>OSHA</b><br><br>
+
+10-Hour General Industry
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="assets/snapon.png" height="45"><br><br>
+
+<b>Snap-on</b><br><br>
+
+Meter Certification
+
+</td>
+
+</tr>
+</table>
+
+</p>
 <details open>
   <summary><h2>📘 My Projects</h2></summary>
-  <p align="left">
+  <p align="center">
   <a href="https://github.com/RyanClarkk/GDMS-EXPO-MTPM-Replacement"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RyanClarkk&repo=GDMS-EXPO-MTPM-Replacement&theme=algolia&hide_border=true&show_icons=false" alt="GDMS-EXPO-MTPM-Replacement"></a>
   <a href="https://github.com/RyanClarkk/DigiClips_Admin_Team_15"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RyanClarkk&repo=DigiClips_Admin_Team_15&theme=algolia&hide_border=true&show_icons=false" alt="DigiClips_Admin_Team_15"></a>
   <a href="https://github.com/RyanClarkk/ArizonaMedical"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RyanClarkk&repo=ArizonaMedical&theme=algolia&hide_border=true&show_icons=false" alt="ArizonaMedical"></a>
