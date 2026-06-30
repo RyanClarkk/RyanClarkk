@@ -40,88 +40,14 @@ Relationship with Drink LMNT
 - SNAP-ON METER CERTIFICATION
 - OSHA 10-HOUR GENERAL INDUSTRY, Occupational Safety and Health Administration
 
-
----
-
-## Projects
-
-### DigiClips Administration Capstone I & II  | Sep 2025 – Present
-Developing a comprehensive local administration system for Digiclips media monitoring platform that captures, processes, and manages data from multiple media sources. Full-stack monitoring and administrative dashboard featuring role-based access control, scalable backend services, and structured data management.  
-**Tech:** Node.js, PostgreSQL, Angular
-
-### Blockchain Chain of Custody Project  | Aug 2025 – Dec 2025
-This project aims to leverage blockchain technology in an implementation of a chain of custody document; this record is used in digital forensics by investigators to document the handling of evidence with the goal of maintaining valid, credible, and admissible evidence. Considering the vitality of these attributes as they relate to the success of a case, these custody forms must be secure, permanent, and tamper-proof in order to minimize the risk of creating grounds for evidence to be unconsidered in a court case. In the event evidence does become compromised during an investigation, this document can aid in identifying the responsible parties. More specifically, our project is responsible for tracking where the evidence was stored, who and when individuals had access to the evidence, and what actions were taken regarding the evidence through an immutable ledger hosted digitally. 
-
-### Design and Synthesis of Digital Hardware  | Aug 2025 – Dec 2025
-In my digital hardware labs, I used AMD Vivado Design Suite to design, simulate, and implement hardware systems on the Nexys A7-100T FPGA Board using Verilog. I developed modular components such as ALUs, registers, control logic, and memory units, and verified their functionality by creating testbenches and analyzing waveform outputs in simulation. After validation, I synthesized and implemented the designs, generated bitstreams, and programmed the FPGA to observe real-time behavior using onboard LEDs and switches. I also worked with XDC constraint files to map signals to physical pins and ensure proper timing. In Lab 5, I designed a multi-cycle MIPS processor, implemented a subset of instructions, added a custom instruction, and tested execution using initialized memory. In Lab 6, I built a 4×4 systolic array matrix multiplier using multiply-accumulate operations, integrated BRAM for data storage, debugged issues in memory and processing elements, and performed timing analysis to resolve performance constraints. 
-
-### CSE 434 Socket Project  | Feb 2025 – May 2025
-Implemented our own application program in which processes communicate using sockets to first build a distributed hash table (DHT) and then process queries using it.
-
-### Arizona Medical  | Jun 2024 – Jul 2024
-The Arizona Medical Online Portal is an innovative solution designed to simplify and enhance the interactions between healthcare providers and patients. This comprehensive digital platform allows for seamless access to medical services and information, significantly improving the efficiency of healthcare operations and enhancing patient satisfaction. Our team has developed a user-centric portal that includes several key functionalities aimed at improving the overall healthcare experience.
-
-### Microprocessor Development  | Aug 2023 – Dec 2023
-Designed a scalable digital microprocessor prototype with a detailed hardware blueprint suitable for real-world implementation. Applied expertise in microprocessor architecture, digital circuit design, and system integration to create a foundational model for hardware manufacturing. Utilized Verilog and industry-standard engineering tools to ensure scalability, efficiency, and compliance with modern technology standards.
-
-### Synchronous Sequential Machine  | Aug 2023 – Dec 2023
-Created Using the Program Digital at Arizona State University in CSE 120 Digital Design Fundamentals
-
----
-### Skills
-Windows Server, Active Directory, Active Directory Security Groups, Networking, Security Technologies (firewalls, IDS/IPS, encryption), Virtualization (VMware), Cybersecurity, Ethical Hacking, Incident Response, Vulnerability Assessment, Network Security, VPN Administration, TCP/IP, DNS/DHCP, Linux System Administration, C (Programming Language), C++, Java, Packet Tracer, Verilog, Operating Systems, Patch Management, IT Risk Management, Risk Assessment, FPGA’s, AMD Vivado, Visual Studio, Eclipse IDE’s, Data Structures and Algorithms, Object Orientated programming, Design and Synthesis of Digital Hardware, Computer and Network Forensics
-
----
-### Clubs
-- Sun Devil® Run Club President<br>
-  An ASU-run club thats focused on motivating people to move and prepare for 10k, Half, and Marathons.<br>
-  Jan 2025 – May 2026
-
-- DevilSec Member
-DevilSec is a cyber security club based at Arizona State University (ASU) which has a sole purpose of better equipping students for their future careers into the many professions of cyber security. We provide hands on education and training for ethical hacking, network security, penetration testing, network administration, and systems security.<br>
-Jan 2023 – May 2026
-
-- Sun Devil Stock Exchange Member<br>
-Learning and exploring the many areas of financial markets, including the stock market, cryptocurrency, bonds, and more<br>
-Jan 2023 – May 2026
-
-
-
-
-
----
-
-## Technical Stack
-
-### Languages
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
----
-
-### ⚙ Backend & Frameworks
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-00FF88?style=flat-square)
-
----
-
-### DevOps & Systems
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
+<details open>
+  <summary><h2>📘 My Projects</h2></summary>
+  <p align="left">
+  <a href="https://github.com/RyanClarkk/GDMS-EXPO-MTPM-Replacement"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RyanClarkk&repo=GDMS-EXPO-MTPM-Replacement&theme=algolia&hide_border=true&show_icons=false" alt="GDMS-EXPO-MTPM-Replacement"></a>
+  <a href="https://github.com/RyanClarkk/DigiClips_Admin_Team_15"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RyanClarkk&repo=DigiClips_Admin_Team_15&theme=algolia&hide_border=true&show_icons=false" alt="DigiClips_Admin_Team_15"></a>
+  <a href="https://github.com/RyanClarkk/ArizonaMedical"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RyanClarkk&repo=ArizonaMedical&theme=algolia&hide_border=true&show_icons=false" alt="ArizonaMedical"></a>
+  <a href="https://github.com/RyanClarkk/Blockchain-Chain-of-Custody-Project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RyanClarkk&repo=Blockchain-Chain-of-Custody-Project&theme=algolia&hide_border=true&show_icons=false" alt="Blockchain-Chain-of-Custody-Project"></a>
+  <a href="https://github.com/RyanClarkk/Design-and-Synthesis-of-Digital-Hardware"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RyanClarkk&repo=Design-and-Synthesis-of-Digital-Hardware&theme=algolia&hide_border=true&show_icons=false" alt="Design-and-Synthesis-of-Digital-Hardware"></a>
+  <a href="https://github.com/RyanClarkk/CSE-434-Socket-Project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RyanClarkk&repo=CSE-434-Socket-Project&theme=algolia&hide_border=true&show_icons=false" alt="CSE-434-Socket-Project"></a>
+</p>
+<a href="https://github.com/RyanClarkk?tab=repositories"> <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-00AEFF?style=for-the-badge&logoColor=white&logo=repo"/> </a> </details>
