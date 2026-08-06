@@ -69,11 +69,3 @@ I'm a Computer Science student at Arizona State University passionate about ente
 </picture>
 
 <br clear="left">
-
-<br><br>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RyanClarkk&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanClarkk&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
