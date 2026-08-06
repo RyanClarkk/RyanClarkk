@@ -3,16 +3,19 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="./assets/banner.png" width="78%" alt="Ryan Clark Banner">
+  <img src="./assets/GDMS.jpg" width="100%" alt="Ryan Clark Banner">
 </p>
+
+<br>
 
 <!-- ========================================================= -->
 <!--                      Introduction                          -->
 <!-- ========================================================= -->
 
-<div>
-  <img align="right" width="190" hspace="20" vspace="40" src="./assets/sparky.png" alt="Sparky">
-</div>
+<table>
+<tr>
+
+<td width="70%" valign="top">
 
 # 👋 Hi, I'm Ryan Clark
 
@@ -42,10 +45,20 @@ I'm a Computer Science student at Arizona State University passionate about ente
   </a>
 </p>
 
-<!-- Push the divider below Sparky -->
-<br><br><br><br><br><br><br><br><br><br>
+</td>
 
----
+<td width="30%" align="center" valign="top">
+
+<br><br><br><br>
+
+<img src="./assets/sparky.png" width="190" alt="Sparky">
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 <h2 align="center">Tech Stack</h2>
 
@@ -57,7 +70,7 @@ I'm a Computer Science student at Arizona State University passionate about ente
 
 <br clear="left">
 
----
+<br><br>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=RyanClarkk&show_icons=true&theme=tokyonight&hide_border=true" />
