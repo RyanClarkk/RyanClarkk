@@ -21,7 +21,7 @@
 
 *Computer Science • Cybersecurity • Network Engineering • AI Automation*
 
-I'm a Computer Science student at Arizona State University passionate about enterprise networking, cybersecurity, AI automation, cloud infrastructure, and software engineering.
+Studied Computer Science student at Arizona State University - Network Engineer @ General Dynamics Mission Systems
 
 - 🌐 Enterprise Networking
 - 🔒 Cybersecurity
