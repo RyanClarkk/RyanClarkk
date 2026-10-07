@@ -19,11 +19,11 @@
 
 # 👋 Hi, I'm Ryan Clark
 
-*Computer Science • Cybersecurity • Network Engineering • AI Automation*
+*Computer Science • Network Engineering • Cybersecurity • AI Automation*
 
 Studied Computer Science student at Arizona State University - Network Engineer @ General Dynamics Mission Systems
 
-- 🌐 Enterprise Networking
+- 🌐 Classified / Enterprise Networking
 - 🔒 Cybersecurity
 - 🤖 AI Automation
 - ☁️ Cloud Infrastructure
@@ -60,12 +60,3 @@ Studied Computer Science student at Arizona State University - Network Engineer 
 
 <br>
 
-<h2 align="center">Tech Stack</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/Skills_Animation_Dark.gif">
-  <img align="left" alt="Tech Stack" src="./assets/Skills_Animation_Dark.gif">
-</picture>
-
-<br clear="left">
