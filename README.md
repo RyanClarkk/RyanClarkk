@@ -36,7 +36,7 @@ Studied Computer Science student at Arizona State University - Network Engineer 
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 
-  <a href="YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/ryanclarkaz/?isSelfProfile=true">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
@@ -47,11 +47,11 @@ Studied Computer Science student at Arizona State University - Network Engineer 
 
 </td>
 
-<td width="30%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
 <br><br><br><br>
 
-<img src="./assets/sparky.png" width="190" alt="Sparky">
+<img src="./assets/CNS.png" width="300" alt="CNS">
 
 </td>
 
